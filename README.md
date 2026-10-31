@@ -10,6 +10,14 @@ This repository contains the API testing suite for the **Panda Lite** project, c
 - [Setup](#setup)
 - [Running the Tests](#running-the-tests)
 - [Test Structure](#test-structure)
+- [Project Structure](#project-structure)
+- [Adding to Your CV](#adding-to-your-cv)
+- [License](#license)
+- [Overview](#overview)
+- [Prerequisites](#prerequisites)
+- [Setup](#setup)
+- [Running the Tests](#running-the-tests)
+- [Test Structure](#test-structure)
 - [Adding to Your CV](#adding-to-your-cv)
 - [License](#license)
 
@@ -48,6 +56,18 @@ You can also run individual folders or specific request tests using Newman flags
 - `collections/` – Postman collection files.
 - `environments/` – Environment files with variables like `{{baseUrl}}`.
 - `scripts/` – Helper scripts for data setup/teardown.
+
+## Project Structure
+
+- `collections/` – Postman collection files.
+- `environments/` – Environment files with variables like `{{baseUrl}}`.
+- `scripts/` – Helper scripts for data setup/teardown.
+- `Course work details.md` – Documentation of coursework requirements.
+- `documentation.md` – Additional project documentation.
+- `Panda Lite Api V2.postman_collection.json` – Main Postman collection file.
+- `Panda-Lite Environment.postman_environment.json` – Environment configuration.
+- `README.md` – This file.
+- `SystemTestingReport.md` – Report of system testing results.
 
 ## Adding to Your CV
 When listing this project on a resume, you can describe it as:
