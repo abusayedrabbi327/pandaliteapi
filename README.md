@@ -69,12 +69,7 @@ You can also run individual folders or specific request tests using Newman flags
 - `README.md` – This file.
 - `SystemTestingReport.md` – Report of system testing results.
 
-## Adding to Your CV
-When listing this project on a resume, you can describe it as:
-```
-• Developed a comprehensive API testing suite for the Panda Lite service using Postman/Newman, validating endpoints, response payloads, and error handling as part of a university coursework project.
-```
-Include a link to the repository (if public) to showcase your work.
+
 
 ## License
 This coursework project is provided for educational purposes and is licensed under the MIT License.
